@@ -18,7 +18,10 @@ class SearchBar extends Component {
                 playerId: player.playerId,
             }))
         })
-        console.log(players);
+        //console.log(players);
+    }
+    onSelect = (value) =>{
+        this.props.handleSelectPlayer(value);
     }
     render() {
         const{ dataSource }  = this.state;
@@ -40,9 +43,12 @@ class SearchBar extends Component {
                 className="search-bar"
                 placeholder="Search NBA Player"
                 size="large"
+                //match with option property key as 'value'
                 optionLabelProp="value"
+
                 onSearch={this.handleSearch}
                 dataSource={options}
+                onSelect = {this.onSelect}
             >
 
                 <Input suffix={<Icon type="search" className="certain-category-icon" />} />
