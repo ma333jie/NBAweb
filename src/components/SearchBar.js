@@ -4,10 +4,13 @@ import nba from '../nba-client';
 import { PROFILE_PIC_URL_PREFIX } from '../constants';
 
 class SearchBar extends Component {
-
+    state = {
+        dataSource: [],
+    }
 
 
     render() {
+        const{ dataSource }  = this.state;
         return (
 
             <AutoComplete
