@@ -25,7 +25,8 @@ class SearchBar extends Component {
         const options = dataSource.map(
             player =>(
              <Option key = {player.fullName}
-                value = {player.fullName}>
+                value = {player.fullName}
+                     className="player-option">
 
                  <img className="player-option-image" src={`${PROFILE_PIC_URL_PREFIX}/${player.playerId}.png`}/>
                  <span className="player-option-label">{player.fullName}</span>
