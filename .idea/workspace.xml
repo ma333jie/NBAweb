@@ -21,9 +21,6 @@
       <change beforePath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TinNews/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
@@ -117,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -201,8 +198,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1122" />
-    <option name="y" value="-274" />
+    <option name="x" value="-1220" />
+    <option name="y" value="-277" />
     <option name="width" value="1220" />
     <option name="height" value="1177" />
   </component>
@@ -313,26 +310,25 @@
       <workItem from="1588648018961" duration="599000" />
       <workItem from="1588648957103" duration="313000" />
       <workItem from="1588813964858" duration="6131000" />
-      <workItem from="1589058787151" duration="5075000" />
+      <workItem from="1589058787151" duration="5976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38852000" />
+    <option name="totallyTimeSpent" value="39753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1122" y="-274" width="1220" height="1177" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26230898" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26230898" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.15576036" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.15576036" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -569,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
